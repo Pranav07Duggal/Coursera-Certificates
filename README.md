@@ -18,7 +18,7 @@ All certificates are included as image files in this repository. These represent
 
 Here’s an example of one of my certificates:
 
-![Sample Certificate](./sample_certificate.jpg)
+![Sample Certificate](./Coursera 9Z5MTFKTWJJF.pdf)
 
 
 
