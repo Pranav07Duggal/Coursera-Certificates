@@ -13,15 +13,6 @@ All certificates are included as image files in this repository. These represent
 - 🌐 Web Development  
 - 🧮 Algorithms & Computer Science  
 - 🧱 Software Engineering Principles  
-
-## ✅ Preview
-
-Here’s an example of one of my certificates:
-
-![Sample Certificate](./Coursera 9Z5MTFKTWJJF.pdf)
-
-
-
 ---
 
 **📌 Note:** All certificates are my own and are included here for educational and professional reference only.
